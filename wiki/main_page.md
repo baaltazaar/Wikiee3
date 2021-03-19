@@ -2,7 +2,21 @@
 redirect_from: "/"
 ---
 
-This is a sample of main page. You can edit it to start your wiki.
+# Welcome to the Taxonomy! 
 
-For documentation, installation guide and demo of [git-wiki-theme](git-wiki-theme) visit this [link](http://drassil.github.io/git-wiki/)
+A framework to describe and classify terms.
+
+*This is a test repository!*
+
+## [# Aa](Aa.md)
+
+## [# Bb](Bb.md)
+
+## [# Cc](Cc.md)
+
+## [# Dd](Dd.md)
+
+## [# Ee](Ee.md)
+
+## [# Ff](Ff.md)
 
