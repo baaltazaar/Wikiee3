@@ -8,15 +8,15 @@ A framework to describe and classify terms.
 
 *This is a test repository!*
 
-## [# Aa](/wiki/Aa.md)
+## [# Aa](Aa.md)
 
-## [# Bb](/wiki/Bb.md)
+## [# Bb](Bb.md)
 
-## [# Cc](/wiki/Cc.md)
+## [# Cc](Cc.md)
 
-## [# Dd](/wiki/Dd.md)
+## [# Dd](Dd.md)
 
-## [# Ee](/wiki/Ee.md)
+## [# Ee](Ee.md)
 
-## [# Ff](/wiki/Ff.md)
+## [# Ff](Ff.md)
 
