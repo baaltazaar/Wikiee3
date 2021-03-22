@@ -12,4 +12,4 @@
 #### Reference(s).
 [Add reference url if any or remove]
 
-**Note, save this file with the terms name, e.g. replace "template.md" above with "xyz.md" and then commit. Also remove this line!**
+**Note, save this file with the terms name, i.e. replace "template.md" above with "xyz.md" and then commit. Also remove this line!**
