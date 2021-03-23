@@ -1,21 +1,27 @@
-<!--- Provide a general summary of your changes in the Title above -->
+<!--- Provide the term in the Title above -->
 
-## Description
-<!--- Describe your changes in detail -->
+<!--- Please secure that you have used below template for term creation, if not please go back and update before yo do a pull request-->
+# Add term
+To add new terms copy below template into the new file and update the content. 
+Save the file named as the term. "xyz.md"
+Do a pull request.
 
-## Related Issue
-<!--- This project only accepts pull requests related to open issues -->
-<!--- If suggesting a new feature or change, please discuss it in an issue first -->
-<!--- If fixing a bug, there should be an issue describing it with steps to reproduce -->
-<!--- Please link to the issue here: -->
+----------------
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
+Template: [Copy below and paste into the file.]
 
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+## [add term]
+#
+#### Abbreviation. [Add abbreviation or remove]
+##
+#### Definition
+[Add Text]
 
-## Screenshots (if appropriate):
+##
+#### Note.
+[Add note or remove]
+##
+#### Reference(s).
+[Add url or remove]
+
+
