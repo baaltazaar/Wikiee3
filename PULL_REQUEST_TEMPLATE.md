@@ -16,7 +16,6 @@ Template: [Copy below and paste into the file.]
 ##
 #### Definition
 [Add Text]
-
 ##
 #### Note.
 [Add note or remove]
