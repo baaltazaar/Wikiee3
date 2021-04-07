@@ -12,7 +12,7 @@ redirect_from: "/"
 
 #### This Taxonomy consists of terms and definitions used in the C**** S****  domain. Only terms that are defined in final publications — not drafts — are included here. Terms without a source publication will not be independently added.
 
-#### If terms are missing please use above "Add term" to request/add a term.
+#### If terms are missing please use above link "Add term" to request/add a term.
 
 ***
 ## Aa
