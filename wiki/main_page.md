@@ -9,7 +9,7 @@ A framework to describe and classify terms.
 *This is a test repository!*
 
 
-# [Aa](#Aa) - [Bb](#Bb) - [Cc](#Cc) - [Dd](#Dd) - [Ee](#Ee) - [Ff](#Ff) - [Gg](#Gg) - [Hh](#Hh) - [Ii](#Ii) - [Jj](#Jj) - [Kk](#Kk) - [Ll](#Ll) - [Mm](#Mm) - [Nn](#Nn) - [Oo](#Oo) - [Pp](#Pp) - [Qq](#Qq) - [Rr](#Rr) - [Ss](#Ss) - [Tt](#Tt) - [Uu](#Uu) - [Vv](#Vv) - [Ww](#Ww) - [Xx](#Xx) - [Yy](#Yy) - [Zz](#Zz)
+# [Aa](#aa) - [Bb](#bb) - [Cc](#bc) - [Dd](#dd) - [Ee](#ee) - [Ff](#ff) - [Gg](#Gg) - [Hh](#Hh) - [Ii](#Ii) - [Jj](#Jj) - [Kk](#Kk) - [Ll](#Ll) - [Mm](#Mm) - [Nn](#Nn) - [Oo](#Oo) - [Pp](#Pp) - [Qq](#Qq) - [Rr](#Rr) - [Ss](#Ss) - [Tt](#Tt) - [Uu](#Uu) - [Vv](#Vv) - [Ww](#Ww) - [Xx](#Xx) - [Yy](#Yy) - [Zz](#Zz)
 
 ***
 ## Aa
