@@ -9,7 +9,7 @@ A framework to describe and classify terms.
 *This is a test repository!*
 
 
-# [Aa](#aa) - [Bb](#bb) - [Cc](#bc) - [Dd](#dd) - [Ee](#ee) - [Ff](#ff) - [Gg](#Gg) - [Hh](#Hh) - [Ii](#Ii) - [Jj](#Jj) - [Kk](#Kk) - [Ll](#Ll) - [Mm](#Mm) - [Nn](#Nn) - [Oo](#Oo) - [Pp](#Pp) - [Qq](#Qq) - [Rr](#Rr) - [Ss](#Ss) - [Tt](#Tt) - [Uu](#Uu) - [Vv](#Vv) - [Ww](#Ww) - [Xx](#Xx) - [Yy](#Yy) - [Zz](#Zz)
+# [Aa](#aa) - [Bb](#bb) - [Cc](#cc) - [Dd](#dd) - [Ee](#ee) - [Ff](#ff) - [Gg](#gg) - [Hh](#hh) - [Ii](#ii) - [Jj](#jj) - [Kk](#kk) - [Ll](#ll) - [Mm](#mm) - [Nn](#nn) - [Oo](#oo) - [Pp](#pp) - [Qq](#qq) - [Rr](#rr) - [Ss](#ss) - [Tt](#tt) - [Uu](#uu) - [Vv](#vv) - [Ww](#ww) - [Xx](#xx) - [Yy](#yy) - [Zz](#zz)
 
 ***
 ## Aa
@@ -42,8 +42,30 @@ A framework to describe and classify terms.
 ### [FFF](FFF.md)
 ### [FOC](FOC.md)
 
+***
+## Gg
+### [GGG](GGG.md)
+### [GOC](gOC.md)
 
+***
+## Ff
+### [FFF](FFF.md)
+### [FOC](FOC.md)
 
+***
+## Xx
+### [XXX](XXX.md)
+### [XOC](XOC.md)
+
+***
+## Yy
+### [YYY](YYY.md)
+### [FYC](YOC.md)
+
+***
+## Zz
+### [ZZZ](ZZZ.md)
+### [ZOC](ZOC.md)
 
 
 
