@@ -4,15 +4,15 @@ redirect_from: "/"
 
 # Welcome to the Taxonomy! 
 
-A framework to describe and classify terms.
+### A framework to describe and classify terms.
 
 *This is a test repository!*
 
 # [Aa](#aa) - [Bb](#bb) - [Cc](#cc) - [Dd](#dd) - [Ee](#ee) - [Ff](#ff) - [Gg](#gg) - [Hh](#hh) - [Ii](#ii) - [Jj](#jj) - [Kk](#kk) - [Ll](#ll) - [Mm](#mm) - [Nn](#nn) - [Oo](#oo) - [Pp](#pp) - [Qq](#qq) - [Rr](#rr) - [Ss](#ss) - [Tt](#tt) - [Uu](#uu) - [Vv](#vv) - [Ww](#ww) - [Xx](#xx) - [Yy](#yy) - [Zz](#zz)
 
-### This Taxonomy consists of terms and definitions used in the C**** S****  domain. Only terms that are defined in final publications — not drafts — are included here. Terms without a source publication will not be independently added.
+#### This Taxonomy consists of terms and definitions used in the C**** S****  domain. Only terms that are defined in final publications — not drafts — are included here. Terms without a source publication will not be independently added.
 
-### If terms are missing please use above "Add term" to request/add a term.
+#### If terms are missing please use above "Add term" to request/add a term.
 
 ***
 ## Aa
