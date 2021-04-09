@@ -9,15 +9,20 @@ redirect_from: "/"
 #### This Taxonomy consists of terms and definitions used in the C'''' S'''''  domain. Only terms that are defined in final publications — not drafts — are included here. Terms without a source publication will not be independently added.
 
 # [Aa](#aa) - [Bb](#bb) - [Cc](#cc) - [Dd](#dd) - [Ee](#ee) - [Ff](#ff) - [Gg](#gg) - [Hh](#hh) - [Ii](#ii) - [Jj](#jj) - [Kk](#kk) - [Ll](#ll) - [Mm](#mm) - [Nn](#nn) - [Oo](#oo) - [Pp](#pp) - [Qq](#qq) - [Rr](#rr) - [Ss](#ss) - [Tt](#tt) - [Uu](#uu) - [Vv](#vv) - [Ww](#ww) - [Xx](#xx) - [Yy](#yy) - [Zz](#zz)
+
 ***
+
  |           |           |           |           |           |           |           |           |           |           |           |           |           |
  | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
  | [Aa](#aa) | [Bb](#bb) | [Cc](#cc) | [Dd](#dd) | [Ee](#ee) | [Ff](#ff) | [Gg](#gg) | [Hh](#hh) | [Ii](#ii) | [Jj](#jj) | [Kk](#kk) | [Ll](#ll) | [Mm](#mm) |
  | [Nn](#nn) | [Oo](#oo) | [Pp](#pp) | [Qq](#qq) | [Rr](#rr) | [Ss](#ss) | [Tt](#tt) | [Uu](#uu) | [Vv](#vv) | [Ww](#ww) | [Xx](#xx) | [Yy](#yy) | [Zz](#zz) |
+ 
 ***
+
  | [Aa](#aa) | [Bb](#bb) | [Cc](#cc) | [Dd](#dd) | [Ee](#ee) | [Ff](#ff) | [Gg](#gg) | [Hh](#hh) | [Ii](#ii) | [Jj](#jj) | [Kk](#kk) | [Ll](#ll) | [Mm](#mm) |
  | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
  | [Nn](#nn) | [Oo](#oo) | [Pp](#pp) | [Qq](#qq) | [Rr](#rr) | [Ss](#ss) | [Tt](#tt) | [Uu](#uu) | [Vv](#vv) | [Ww](#ww) | [Xx](#xx) | [Yy](#yy) | [Zz](#zz) |
+ 
 *** 
 # | [Aa](#aa) | [Bb](#bb) | [Cc](#cc) | [Dd](#dd) | [Ee](#ee) | [Ff](#ff) | [Gg](#gg) | [Hh](#hh) | [Ii](#ii) | [Jj](#jj) | [Kk](#kk) | [Ll](#ll) | [Mm](#mm) | [Nn](#nn) | [Oo](#oo) | [Pp](#pp) | [Qq](#qq) | [Rr](#rr) | [Ss](#ss) | [Tt](#tt) | [Uu](#uu) | [Vv](#vv) | [Ww](#ww) | [Xx](#xx) | [Yy](#yy) | [Zz](#zz) |
 ***
