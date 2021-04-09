@@ -2,11 +2,12 @@
 redirect_from: "/"
 ---
 
-# Welcome to the Taxonomy! 
+# Welcome to the Taxonomy!
+*This is a test repository!* <br>
 
-### A framework to describe and classify terms.
+A framework to describe and classify terms.<br>
 
-#### This Taxonomy consists of terms and definitions used in the C'''' S'''''  domain. Only terms that are defined in final publications — not drafts — are included here. Terms without a source publication will not be independently added.
+This Taxonomy consists of terms and definitions used in the C'''' S'''''  domain. Only terms that are defined in final publications — not drafts — are included here. Terms without a source publication will not be independently added.<br>
 
 # [Aa](#aa) - [Bb](#bb) - [Cc](#cc) - [Dd](#dd) - [Ee](#ee) - [Ff](#ff) - [Gg](#gg) - [Hh](#hh) - [Ii](#ii) - [Jj](#jj) - [Kk](#kk) - [Ll](#ll) - [Mm](#mm) - [Nn](#nn) - [Oo](#oo) - [Pp](#pp) - [Qq](#qq) - [Rr](#rr) - [Ss](#ss) - [Tt](#tt) - [Uu](#uu) - [Vv](#vv) - [Ww](#ww) - [Xx](#xx) - [Yy](#yy) - [Zz](#zz)
 
