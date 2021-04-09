@@ -28,8 +28,8 @@ redirect_from: "/"
 
 ***
 #### Bb
-###### [BBB](BBB.md)
-###### [BOC](BOC.md)
+[BBB](BBB.md)<br>
+[BOC](BOC.md)<br>
 
 ***
 ## Cc
